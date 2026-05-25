@@ -7,3 +7,5 @@ app.MapOpenApi();
 app.MapScalarApiReference();
 app.MapEndpoints();
 app.Run();
+
+public partial class Program { }
