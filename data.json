@@ -1,0 +1,21 @@
+{
+  "bands": [
+    { "id": 1, "name": "Metallica", "country": "USA", "foundationYear": 1981 },
+    { "id": 2, "name": "Iron Maiden", "country": "UK", "foundationYear": 1975 },
+    { "id": 3, "name": "Radiohead", "country": "UK", "foundationYear": 1985 },
+    { "id": 4, "name": "Daft Punk", "country": "France", "foundationYear": 1993 },
+    { "id": 5, "name": "Portishead", "country": "UK", "foundationYear": 1991 }
+  ],
+  "albums": [
+    { "id": 1,  "title": "Master of Puppets",      "releaseDate": "1986-03-03", "genre": "Heavy Metal",       "bandId": 1 },
+    { "id": 2,  "title": "The Black Album",         "releaseDate": "1991-08-12", "genre": "Heavy Metal",       "bandId": 1 },
+    { "id": 3,  "title": "The Number of the Beast", "releaseDate": "1982-03-22", "genre": "Heavy Metal",       "bandId": 2 },
+    { "id": 4,  "title": "Powerslave",              "releaseDate": "1984-09-03", "genre": "Heavy Metal",       "bandId": 2 },
+    { "id": 5,  "title": "OK Computer",             "releaseDate": "1997-05-21", "genre": "Alternative Rock",  "bandId": 3 },
+    { "id": 6,  "title": "Kid A",                   "releaseDate": "2000-10-02", "genre": "Experimental Rock", "bandId": 3 },
+    { "id": 7,  "title": "Homework",                "releaseDate": "1997-01-20", "genre": "Electronic",        "bandId": 4 },
+    { "id": 8,  "title": "Random Access Memories",  "releaseDate": "2013-05-17", "genre": "Electronic",        "bandId": 4 },
+    { "id": 9,  "title": "Dummy",                   "releaseDate": "1994-08-22", "genre": "Trip Hop",          "bandId": 5 },
+    { "id": 10, "title": "Portishead",              "releaseDate": "1997-09-29", "genre": "Trip Hop",          "bandId": 5 }
+  ]
+}
