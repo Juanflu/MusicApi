@@ -18,11 +18,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MusicApi.csproj" />
+    <ProjectReference Include="..\MusicApi\MusicApi.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="..\data.json" Link="data.json">
+    <Content Include="..\MusicApi\data.json" Link="data.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

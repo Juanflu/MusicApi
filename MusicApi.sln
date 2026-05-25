@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicApi", "MusicApi.csproj", "{6AF09385-9BC1-48D6-B2F8-58F1AD620771}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicApi", "MusicApi\MusicApi.csproj", "{6AF09385-9BC1-48D6-B2F8-58F1AD620771}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicApi.Tests", "MusicApi.Tests\MusicApi.Tests.csproj", "{3F5C65D9-7349-420D-8681-8DF58C55CF3F}"
 EndProject
