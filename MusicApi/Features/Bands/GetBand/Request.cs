@@ -1,6 +1,6 @@
 namespace MusicApi.Features.Bands.GetBand;
 
 public record Request(
-    int Id, 
+    [FromRoute] int Id,
     [FromServices] DataSource Data
 );
